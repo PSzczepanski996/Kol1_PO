@@ -1,0 +1,7 @@
+C:\Users\thesz\source\repos\kol1_3\kol1_3\bin\Debug\kol1_3.exe.config
+C:\Users\thesz\source\repos\kol1_3\kol1_3\bin\Debug\kol1_3.exe
+C:\Users\thesz\source\repos\kol1_3\kol1_3\bin\Debug\kol1_3.pdb
+C:\Users\thesz\source\repos\kol1_3\kol1_3\obj\Debug\kol1_3.csprojAssemblyReference.cache
+C:\Users\thesz\source\repos\kol1_3\kol1_3\obj\Debug\kol1_3.csproj.CoreCompileInputs.cache
+C:\Users\thesz\source\repos\kol1_3\kol1_3\obj\Debug\kol1_3.exe
+C:\Users\thesz\source\repos\kol1_3\kol1_3\obj\Debug\kol1_3.pdb

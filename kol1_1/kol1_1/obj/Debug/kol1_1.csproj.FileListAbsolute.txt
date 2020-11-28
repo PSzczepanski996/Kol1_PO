@@ -1,0 +1,6 @@
+C:\Users\thesz\source\repos\kol1_1\kol1_1\obj\Debug\kol1_1.csproj.CoreCompileInputs.cache
+C:\Users\thesz\source\repos\kol1_1\kol1_1\bin\Debug\kol1_1.exe.config
+C:\Users\thesz\source\repos\kol1_1\kol1_1\bin\Debug\kol1_1.exe
+C:\Users\thesz\source\repos\kol1_1\kol1_1\bin\Debug\kol1_1.pdb
+C:\Users\thesz\source\repos\kol1_1\kol1_1\obj\Debug\kol1_1.exe
+C:\Users\thesz\source\repos\kol1_1\kol1_1\obj\Debug\kol1_1.pdb
